@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/anthropic-research/claude-notion/main/images/claude_logo.png" width="40" alt="Claude" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Anthropic_logo.svg" width="120" alt="Claude" />
   <br />
   <br />
 </div>
@@ -8,31 +8,19 @@
 # Artifact: System Architect Profile (SHIBADEV)
 
 > **Identity:** Luiz  
-> **Core Focus:** Distributed Systems, Kernel Primitives, and Large-Scale Inference.  
-> **Status:** Operating at the intersection of Formal Logic and Performance Engineering.
+> **Systems Priority:** Distributed Architectures & Kernel-Level Optimization  
+> **Classification:** Senior Engineering / Formal Logic Research
 
 ---
 
 ### Abstract
-Senior-level software engineer dedicated to the optimization of high-performance systems. My work prioritizes memory safety, deterministic logic, and the architectural scaling of inference engines. I specialize in bridging the gap between theoretical models and hardware-level execution.
+Senior systems engineer focused on the mathematical and physical boundaries of computation. I architect high-performance environments for large-scale inference engines, prioritizing memory safety and deterministic state execution. My current research involves optimizing **Ghost (1T Params)** and **Ghost 3 (1.5B Params)** for consumer-grade silicon.
 
-### Technical Specification
-*Detailed mapping of core competencies and systems focus.*
+### Core Specifications
+*Technical primitives and implementation domains.*
 
-* **Low-Level Systems:** Rust, C++, eBPF Runtime, Linux Kernel Tuning.
-* **Inference Architecture:** Ghost Series (1T/1.5B) optimization, CUDA Custom Kernels.
-* **Applied Logic:** Formal Verification, Discrete State Machines, Physics Engine Architecture.
-* **Environments:** High-throughput hardware optimization (RTX/Legion ecosystem).
-
----
-
-### System Topology
-```mermaid
-graph TD
-    A[Hardware Layer] --> B[Kernel Abstraction]
-    B --> C[eBPF Performance Monitoring]
-    C --> D{Inference Logic}
-    D --> E[Ghost 1T Implementation]
-    D --> F[Deterministic Frameworks]
-
-    style D fill:#ffffff,stroke:#333,stroke-width:2px
+```yaml
+Systems: [Rust, C++, eBPF, Linux Kernel Tuning]
+Inference: [Ghost 1T Series, CUDA Kernels, TensorRT]
+Logic: [Formal Verification, Discrete State Machines]
+Hardware: [RTX/Legion Architecture Optimization]
