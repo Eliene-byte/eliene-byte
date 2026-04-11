@@ -1,26 +1,27 @@
 <div align="center">
   <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Anthropic_logo.svg" width="120" alt="Claude" />
-  <br />
+  <h1>✶</h1>
   <br />
 </div>
 
-# Artifact: System Architect Profile (SHIBADEV)
+# Artifact: No-Code Developer Profile (SHIBADEV)
 
 > **Identity:** Luiz  
-> **Systems Priority:** Distributed Architectures & Kernel-Level Optimization  
-> **Classification:** Senior Engineering / Formal Logic Research
+> **Focus:** No-Code Development & AI-Augmented Engineering  
+> **Classification:** 2 Years Experience / Project Optimizer
 
 ---
 
 ### Abstract
-Senior systems engineer focused on the mathematical and physical boundaries of computation. I architect high-performance environments for large-scale inference engines, prioritizing memory safety and deterministic state execution. My current research involves optimizing **Ghost (1T Params)** and **Ghost 3 (1.5B Params)** for consumer-grade silicon.
+I am a No-Code programmer with 2 years of experience, with immense skills in using AI as my core support system. I love programming and I'm currently helping projects by updating them with quality and precision.
+
+A clear example is my most recent issue, where I took a project from **28 errors to a 100% success rate — 28/28 fixed.**
 
 ### Core Specifications
-*Technical primitives and implementation domains.*
+*My technical primitives and workflow.*
 
 ```yaml
-Systems: [Rust, C++, eBPF, Linux Kernel Tuning]
-Inference: [Ghost 1T Series, CUDA Kernels, TensorRT]
-Logic: [Formal Verification, Discrete State Machines]
-Hardware: [RTX/Legion Architecture Optimization]
+Stack: [No-Code, Low-Code, Automation, Rapid Prototyping]
+AI Support: [Claude, ChatGPT, GitHub Copilot, Advanced Prompt Engineering]
+Specialties: [Project Modernization, Bug Elimination, Quality Assurance]
+Philosophy: [AI as Co-Pilot, Ship Clean Code, 100% Quality]
