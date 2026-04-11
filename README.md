@@ -1,51 +1,60 @@
 <div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/anthropic-research/claude-notion/main/images/claude_logo.png" width="45" alt="Claude Logo" />
+  
+  # System Identity: SHIBADEV
+  **Systems Architect | Low-Level Engineering | Formal Logic Specialist**
 
-# 🌌 Advanced Systems Research & Formal Logic Theory
-**Post-Doctoral Level | Autonomous Agent Architectures | Solidity Forensics**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=52FFB8&center=true&vCenter=true&width=900&lines=Executing+Formal+Verification+on+L1/L2+Protocols...;Optimizing+Ghost+3+Inference+Engines+(1.5B+Params);Neural+Architecture+Search+for+1T+Parameter+Systems;Analyzing+Constant+Product+Invariants+via+Z3+Solver;Kernel-Level+Memory+Management+%26+eBPF+Security)
+  `Status: Active` • `Identity: Luiz` • `Focus: High-Performance Computing`
 
 </div>
 
 ---
 
-### 🔬 Research Thesis: Convergence of Formal Methods and LLM Scaling
-My research explores the mathematical boundaries of **deterministic security** in non-deterministic environments. By leveraging **Formal Verification (TLA+, Coq)**, I architect systems where AI agents (like **Ghost 3**) can execute high-stakes DeFi operations within provably secure parameters.
+### 🟢 Executive Summary
+I specialize in the architectural boundary between high-level abstraction and machine-level execution. My work focuses on optimizing massive-scale inference engines (**Ghost Series**) and developing robust system primitives. I operate at the intersection of **Formal Methods** and **Performance Engineering**, ensuring that complex systems remain deterministic under load.
 
 ---
 
-### 🛠️ Real-Time Systems Dashboard
+### 🧩 Core Stack & Technical Artifacts
+*Primary focus on memory-safe systems and high-throughput architectures.*
 
 <div align="center">
 
-| **Domain: Blockchain & Security** | **Domain: Neural Computing** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=eliene-byte&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&title_color=52FFB8&icon_color=52FFB8) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliene-byte&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=52FFB8) |
+| **Systems & Low-Level** | **Logic & Architecture** | **Simulation & Graphics** |
+| :--- | :--- | :--- |
+| Rust / C++ / eBPF | Formal Verification | Luau (Roblox Engine) |
+| Linux Kernel Tuning | Ghost 1T Inference | Motion Matching Systems |
+| CUDA Kernels / TensorRT | Discrete State Machines | Shaders & GLSL |
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliene-byte&show_icons=true&theme=calm&hide_border=true&title_color=D1D1D1&text_color=A0A0A0&icon_color=D1D1D1&bg_color=0D1117" alt="Engineering Stats" />
 </div>
 
 ---
 
-### 🧬 Architectural Topology (Multi-Layer Integration)
+### 🧬 Architectural Topology (Verified Systems)
 
 ```mermaid
 graph TD
-    subgraph "Hardware Abstraction Layer"
-        A[eBPF Monitor] --> B[Linux Kernel Optimization]
-        B --> C[CUDA Custom Kernels]
+    subgraph "Compute Abstraction"
+        A[NVIDIA RTX / Legion] --> B[Custom CUDA Kernels]
+        B --> C[eBPF Runtime Monitor]
     end
 
-    subgraph "Intelligence & Logic Layer"
-        D[Ghost 3 Architecture - 1.5B] --> E{Formal Logic Gate}
-        E -->|Verified| F[Post-Audit Security Suite]
-        E -->|Heuristic| G[Market Analysis Engine]
+    subgraph "Intelligence Primitives"
+        D[Ghost 1T Model] --- E[Ghost 3 1.5B Optimized]
+        E --> F{Logic Gate}
     end
 
-    subgraph "Settlement Layer"
-        F --> H[EVM Settlement]
-        G --> H
-        H --> I[Immutable State Change]
+    subgraph "Production Targets"
+        F --> G[Educational Frameworks]
+        F --> H[Physics Engines]
     end
 
-    style E fill:#0d1117,stroke:#52FFB8,stroke-width:3px
-    style I fill:#0d1117,stroke:#52FFB8,stroke-width:3px
+    style F fill:#0D1117,stroke:#D1D1D1,stroke-width:2px
+    style G fill:#0D1117,stroke:#D1D1D1,stroke-width:1px
