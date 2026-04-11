@@ -1,60 +1,38 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/anthropic-research/claude-notion/main/images/claude_logo.png" width="45" alt="Claude Logo" />
-  
-  # System Identity: SHIBADEV
-  **Systems Architect | Low-Level Engineering | Formal Logic Specialist**
-
-  `Status: Active` • `Identity: Luiz` • `Focus: High-Performance Computing`
-
+  <img src="https://raw.githubusercontent.com/anthropic-research/claude-notion/main/images/claude_logo.png" width="40" alt="Claude" />
+  <br />
+  <br />
 </div>
+
+# Artifact: System Architect Profile (SHIBADEV)
+
+> **Identity:** Luiz  
+> **Core Focus:** Distributed Systems, Kernel Primitives, and Large-Scale Inference.  
+> **Status:** Operating at the intersection of Formal Logic and Performance Engineering.
 
 ---
 
-### 🟢 Executive Summary
-I specialize in the architectural boundary between high-level abstraction and machine-level execution. My work focuses on optimizing massive-scale inference engines (**Ghost Series**) and developing robust system primitives. I operate at the intersection of **Formal Methods** and **Performance Engineering**, ensuring that complex systems remain deterministic under load.
+### Abstract
+Senior-level software engineer dedicated to the optimization of high-performance systems. My work prioritizes memory safety, deterministic logic, and the architectural scaling of inference engines. I specialize in bridging the gap between theoretical models and hardware-level execution.
+
+### Technical Specification
+*Detailed mapping of core competencies and systems focus.*
+
+* **Low-Level Systems:** Rust, C++, eBPF Runtime, Linux Kernel Tuning.
+* **Inference Architecture:** Ghost Series (1T/1.5B) optimization, CUDA Custom Kernels.
+* **Applied Logic:** Formal Verification, Discrete State Machines, Physics Engine Architecture.
+* **Environments:** High-throughput hardware optimization (RTX/Legion ecosystem).
 
 ---
 
-### 🧩 Core Stack & Technical Artifacts
-*Primary focus on memory-safe systems and high-throughput architectures.*
-
-<div align="center">
-
-| **Systems & Low-Level** | **Logic & Architecture** | **Simulation & Graphics** |
-| :--- | :--- | :--- |
-| Rust / C++ / eBPF | Formal Verification | Luau (Roblox Engine) |
-| Linux Kernel Tuning | Ghost 1T Inference | Motion Matching Systems |
-| CUDA Kernels / TensorRT | Discrete State Machines | Shaders & GLSL |
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliene-byte&show_icons=true&theme=calm&hide_border=true&title_color=D1D1D1&text_color=A0A0A0&icon_color=D1D1D1&bg_color=0D1117" alt="Engineering Stats" />
-</div>
-
----
-
-### 🧬 Architectural Topology (Verified Systems)
-
+### System Topology
 ```mermaid
 graph TD
-    subgraph "Compute Abstraction"
-        A[NVIDIA RTX / Legion] --> B[Custom CUDA Kernels]
-        B --> C[eBPF Runtime Monitor]
-    end
+    A[Hardware Layer] --> B[Kernel Abstraction]
+    B --> C[eBPF Performance Monitoring]
+    C --> D{Inference Logic}
+    D --> E[Ghost 1T Implementation]
+    D --> F[Deterministic Frameworks]
 
-    subgraph "Intelligence Primitives"
-        D[Ghost 1T Model] --- E[Ghost 3 1.5B Optimized]
-        E --> F{Logic Gate}
-    end
-
-    subgraph "Production Targets"
-        F --> G[Educational Frameworks]
-        F --> H[Physics Engines]
-    end
-
-    style F fill:#0D1117,stroke:#D1D1D1,stroke-width:2px
-    style G fill:#0D1117,stroke:#D1D1D1,stroke-width:1px
+    style D fill:#ffffff,stroke:#333,stroke-width:2px
